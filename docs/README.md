@@ -3,14 +3,14 @@ title: Doug Lance
 home: true
 heroText: Doug Lance
 tagline: Software explained.
-actionText: Go To Github
-actionLink: https://github.com/douglance
+actionText: Go to Blog
+actionLink: /blog/
 features:
-  - title: Feature 1
+  - title: Python
     details: Feature Details
-  - title: Feature 2
+  - title: Javascript
     details: Feature Details
-  - title: Feature 3
+  - title: Build Tools
     details: Feature Details
-footer: This is a footer
+footer: Copyright © 2019 Doug Lance. All rights reserved.
 ---
